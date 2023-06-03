@@ -1,0 +1,3 @@
+[submodule "FlutterMinimalWebsite"]
+	path = FlutterMinimalWebsite
+	url = https://github.com/Codelessly/FlutterMinimalWebsite
